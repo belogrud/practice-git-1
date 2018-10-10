@@ -1,4 +1,1 @@
 My first line in project.
-London is the capital of Great Britain.
-Moscow is the capital of Russian Federation.
-Paris is the capital of France.
